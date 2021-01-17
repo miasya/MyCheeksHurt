@@ -12,8 +12,11 @@ Realizing that the support of my amazing friends could get me through the pain.
 
 ## Development timeline
 
-*Path 3.14*
-After round 2 user feedback, users reported visible puff, more similar to the day 2-3 of recovery (i.e. peak swelliness). However, some reported that the filter only served to enhance their masculine features of a sharp rectangular jawline. This was also not acceptable.
+*Patch 5.77 Latest Version*
+After round 3 user feedback, many reported a high satisfaction with the emulated results, with a whopping NS score of 89.
+
+*Patch 3.14*
+After round 2 user feedback, users reported visible puff, more similar to the day 2-3 of recovery (i.e. peak swelliness). However, some reported that the filter only served to enhance their masculine features of a sharp rectangular jawline.
 
 *Patch 1.01*
 After round 1 user feedback, some reported no noticeable face swelling, only an enhanced jawline. Improving our user's appearance was not the goal, so the puffiness was enhanced.
