@@ -4,6 +4,9 @@ Custom AR lens for mimicking the perfect post wisdom tooth surgery removal *look
 ## Tech
 Created with the Lens Studio
 
+## Image Gallery
+See Devpost: https://devpost.com/software/mycheekshurt
+
 ## Usage
 Public lens link: https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=6fd7e1c693cf40f4808309c294626f8e&metadata=01
 
