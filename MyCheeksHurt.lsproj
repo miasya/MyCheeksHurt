@@ -1,14 +1,14 @@
 {
     "lens_id": "",
-    "document_id": "tgxiiwz7U-QMo0aZzq0x",
+    "document_id": "knWhCbcirwyITnzppJeV",
     "original_document_id": "tgxiiwz7U-QMo0aZzq0x",
     "version": "26",
-    "lastChanged": "1610845838696",
+    "lastChanged": "1610848134523",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "false",
-    "isAutoSaved": "false",
+    "isAutoSaved": "true",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
@@ -45,14 +45,16 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                [
-                    "101:100"
-                ]
+                ""
             ]
         },
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
+            "icon_hash": "b8d6a7f051ba7a62b2032fe6b08f6314",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "MyCheeksHurt",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -80,11 +82,11 @@
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -346,11 +348,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "101:100"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
